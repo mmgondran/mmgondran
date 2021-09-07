@@ -1,4 +1,4 @@
-<h1 align="center">Hey MTV 👋, welcome to my ~~crib~~ Github profile.</h1>
+<h1 align="center">Hey MTV 👋, welcome to my crib.</h1>
 <h3 align="center">Fullstack Developer, open to work.</h3>
 
 - 🌱     I’m currently learning **elixir**
