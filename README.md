@@ -3,7 +3,7 @@
 
 - 🌱     I’m currently learning: **elixir**
 
-- 👩🏻‍💻     Current project(s): **my client's site & Lyricsheet.io**
+- 👩🏻‍💻     Current project(s): **Donegan Pest Solutions & Lyricsheet.io**
 
 - 🔗     Portfolio site: [mmgondran.com](https://www.mmgondran.com)
 
