@@ -1,7 +1,7 @@
 <h1 align="center">Hey MTV 👋, welcome to my code.</h1>
 <h3 align="center">Fullstack Developer, open to work.</h3>
 
-- 🌱     I’m currently learning: **elixir**
+- 🌱     I’m currently learning: **GraphQL**
 
 - 👩🏻‍💻     Current side project(s): **Lyricsheet.io & open source contributions**
 
