@@ -3,10 +3,7 @@
 
 - 🌱     I’m currently learning: **GraphQL**
 
-- 👩🏻‍💻     Current side project(s): **Lyricsheet.io & open source contributions**
-
-- 🔗     Portfolio site: [mmgondran.com](https://www.mmgondran.com)
-
+<!-- - 👩🏻‍💻     Current side project(s): **Lyricsheet.io** -->
 - 📫     Email: **michellemgondran@gmail.com**
 
 <h3 align="left">Let's connect!</h3>
