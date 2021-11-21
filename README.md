@@ -1,5 +1,5 @@
 <h1 align="center">Hey MTV 👋, welcome to my code.</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🌱     I’m currently learning: **GraphQL**
 
