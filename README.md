@@ -1,11 +1,11 @@
-<h1 align="center">Hey MTV 👋, welcome to my code.</h1>
+<!-- <h1 align="center">Hey MTV 👋, welcome to my code.</h1>
 <h3 align="center">Software Developer</h3>
 
 - 🌱     I’m currently learning: **GraphQL**
 
 <!-- - 👩🏻‍💻     Current side project(s): **Lyricsheet.io** -->
-- 📫     Email: **michellemgondran@gmail.com**
-
+<!-- - 📫     Email: **michellemgondran@gmail.com** -->
+<!-- 
 <h3 align="left">Let's connect!</h3>
 <p align="left">
 <a href="https://twitter.com/mmgondran" target="blank">
@@ -136,4 +136,5 @@
     height="40"
   />
 </a>
-</p>
+</p> -->
+ -->
